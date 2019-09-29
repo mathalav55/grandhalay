@@ -3064,7 +3064,7 @@ select,
 textarea {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: "Montserrat", "Helvetica", Arial, sans-serif;
+  font-family: "Montserrat",sans-serif;
   font-weight: 300;
 }
 
@@ -4601,7 +4601,7 @@ License - nucleoapp.com/license/
 }
 
 .navbar.navbar-transparent .navbar-toggler .navbar-toggler-bar {
-  background: #FFFFFF !important;
+  background: rgb(0, 0, 0) !important;
 }
 
 .navbar .logo-container {

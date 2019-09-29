@@ -4593,11 +4593,11 @@ License - nucleoapp.com/license/
 }
 
 .navbar.navbar-transparent .navbar-brand {
-  color: #FFFFFF;
+  color: rgb(0, 0, 0);
 }
 
 .navbar.navbar-transparent .navbar-nav .nav-item .nav-link {
-  color: #FFFFFF;
+  color: rgb(0, 0, 0);
 }
 
 .navbar.navbar-transparent .navbar-toggler .navbar-toggler-bar {

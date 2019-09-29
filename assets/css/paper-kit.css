@@ -4489,7 +4489,7 @@ License - nucleoapp.com/license/
 }
 
 .navbar:not([class*="bg"]) .navbar-toggler .navbar-toggler-bar {
-  background: #66615B !important;
+  background: rgb(0, 0, 0) !important;
 }
 
 .navbar .navbar-nav .nav-item .nav-link {
@@ -4593,11 +4593,11 @@ License - nucleoapp.com/license/
 }
 
 .navbar.navbar-transparent .navbar-brand {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .navbar.navbar-transparent .navbar-nav .nav-item .nav-link {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .navbar.navbar-transparent .navbar-toggler .navbar-toggler-bar {
@@ -6613,7 +6613,7 @@ License - nucleoapp.com/license/
 }
 
 .page-header {
-  background-color: #B2AFAB;
+  background-color: rgb(255, 255, 255);
   background-position: center center;
   background-size: cover;
   min-height: 100vh;

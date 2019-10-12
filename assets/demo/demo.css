@@ -5,3 +5,51 @@
 #nav{
   color: black
 }
+.space-filler{
+  padding : 180px;
+}
+/* responsive tags for space filler*/
+@media screen and ( min-width :0px){
+  .space-filler{
+    padding: 90px;
+  }
+  .project-text{
+    font-size: 15px;
+  }
+  .tag-line{
+    font-size: 1.6em;
+  }
+}
+@media screen and ( min-width : 374px){
+  .space-filler{
+    padding : 85px;
+  }
+}
+@media screen and ( min-width : 500px){
+  .space-filler{
+    padding: 100px;
+  }
+}
+@media screen and ( min-width : 767px){
+  .space-filler{
+    padding: 120px;
+  }
+}
+@media screen and ( min-width : 991px){
+  .space-filler{
+   padding: 140px; 
+  }
+}
+@media screen and ( min-width : 1023px){
+  .space-filler{
+    padding : 160px;
+  }
+}
+@media screen and ( min-width : 1367px){
+  .space-filler{
+    padding: 180px;
+  }
+  .project-text{
+    font-size: 1.5em;
+  }
+}
